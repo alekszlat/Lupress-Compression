@@ -12,7 +12,7 @@ Lupress is a simple, educational command-line tool that compresses and decompres
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Lupress-compression.git
+   git clone https://github.com/YOUR_USERNAME/Lupress-Compression.git
    cd lupress
    g++ src/*.cpp -o bitwolf
    ./bitwolf compress test.txt
