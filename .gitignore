@@ -1,0 +1,19 @@
+# Ignore compiled binaries
+*.exe
+*.out
+*.o
+
+# macOS or Windows system files
+.DS_Store
+Thumbs.db
+
+# VS-specific
+*.vcxproj*
+*.sln
+*.user
+*.obj
+*.pdb
+
+# build folders
+bin/
+build/
